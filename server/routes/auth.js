@@ -1,5 +1,16 @@
 const express = require('express');
 const router = express.Router();
+const request = require('request');
+// const InstagramStrategy = require('passport-instagram').Strategy;
+// const LocalStrategy = require('passport-local').Strategy;
+// const FacebookStrategy = require('passport-facebook').Strategy;
+// const TwitterStrategy = require('passport-twitter').Strategy;
+// const GitHubStrategy = require('passport-github').Strategy;
+// const GoogleStrategy = require('passport-google-oauth').OAuth2Strategy;
+// const LinkedInStrategy = require('passport-linkedin-oauth2').Strategy;
+// const OpenIDStrategy = require('passport-openid').Strategy;
+// const OAuthStrategy = require('passport-oauth').OAuthStrategy;
+// const OAuth2Strategy = require('passport-oauth').OAuth2Strategy;
 
 /**
  * OAuth authentication routes. (Sign in)
