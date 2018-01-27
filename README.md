@@ -1,8 +1,8 @@
-# NightlifeCoordinationApp
+# Angular, Bootstrap and Express Boilerplate
 
 ## About
 
-This project is a work in progress with the purpose of providing a boilerplate to begin work on angular applications with an express.js api.
+This project is a work in progress with the purpose of providing a boilerplate to begin work on angular web applications with an express.js api and the bootstrap framework.
 
 This project was generated using the express generator, the angular cli and uses parts of sahat's hackathon starter found here: [https://github.com/sahat/hackathon-starter](https://github.com/sahat/hackathon-starter)
 
